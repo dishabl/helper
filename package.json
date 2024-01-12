@@ -2,7 +2,7 @@
   "name": "helper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dishabl.github.io/roadmap/",
+  "homepage": "https://dishabl.github.io/helper/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.1.1"
   }
 }

@@ -6,7 +6,7 @@ function AppHeader() {
   return (
     <div className="App-header">
       <div className="Header">
-        <Link to="/roadmap">Home</Link>
+        <Link to="/helper">Home</Link>
         {/* <h5>Основные темы для изучения библиотеки React</h5> */}
         <div className="info">Теория по библиотеке React</div>
         <img src={logo} className="App-logo" alt="logo" />
